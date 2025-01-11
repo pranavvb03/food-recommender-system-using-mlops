@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/food-recommender-system-using-mlops/mlruns/0/95665a4561a94e63a45b5424bf9ecfd3/artifacts
+end_time: 1736618331535
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95665a4561a94e63a45b5424bf9ecfd3
+run_name: KNN Model
+run_uuid: 95665a4561a94e63a45b5424bf9ecfd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736618271781
+status: 3
+tags: []
+user_id: Admin

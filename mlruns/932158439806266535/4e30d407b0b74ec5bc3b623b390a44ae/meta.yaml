@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/food-recommender-system-using-mlops/mlruns/932158439806266535/4e30d407b0b74ec5bc3b623b390a44ae/artifacts
+end_time: 1736617819482
+entry_point_name: ''
+experiment_id: '932158439806266535'
+lifecycle_stage: active
+run_id: 4e30d407b0b74ec5bc3b623b390a44ae
+run_name: SVD Model
+run_uuid: 4e30d407b0b74ec5bc3b623b390a44ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736617818746
+status: 4
+tags: []
+user_id: Admin
